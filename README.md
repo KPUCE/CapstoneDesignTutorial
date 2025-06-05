@@ -7,7 +7,7 @@
 ## Capstone Design 수행 일정
 
 ### 종합설계 제안서 발표(3학년 2학기, 11월 말)
-
+https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/(1%EC%B0%A8)%EC%A0%9C%EC%95%88%EC%84%9C%20%EB%B0%9C%ED%91%9C%EC%96%91%EC%8B%9D_2024.pptx
 
 ## 오픈 캡스톤디자인 주제
 
