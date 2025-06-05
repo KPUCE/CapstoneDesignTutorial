@@ -3,7 +3,7 @@
     
 ## Cpastone Design 관련 교과
 ### 종합설계기획(3학년 2학기, 1학점), 종합설계1(4학년 1학기, 3학점), 종합설계2(4학년 2학기, 2학점)
-
+https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/(1%EC%B0%A8)%EC%A0%9C%EC%95%88%EC%84%9C%20%EB%B0%9C%ED%91%9C%EC%96%91%EC%8B%9D_2024.pptx
 
 ## Capstone Design 수행 일정
 
