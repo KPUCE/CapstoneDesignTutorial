@@ -6,9 +6,9 @@
 
 ## Github Organization 소개
    * 각 Organization에 Capstone Design을 수행하는 Repository들을 참고할 수 있음
-### https://github.com/2025TUKCOMCD
-### https://github.com/tukcomCD2024
-### https://github.com/tukcom2023CD
+   * https://github.com/2025TUKCOMCD
+   * https://github.com/tukcomCD2024
+   * ttps://github.com/tukcom2023CD
 
 ## Capstone Design 수행 일정
 
