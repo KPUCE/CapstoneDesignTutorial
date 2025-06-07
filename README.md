@@ -34,7 +34,7 @@
    * (3차) 종합설계 3차 발표 예제: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A0%90%EC%9E%90%EC%A0%84%EC%9E%90%EC%B1%85%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx
 
 ### 4. 종합설계 4차발표(4학년 1학기, 6월 말)
-   * 
+   * 종합설계 최종 데모 수행(발표자료 없이 최종 데모만 수행)
 
 ## 오픈 캡스톤디자인 주제
 
