@@ -4,8 +4,11 @@
 ## Cpastone Design 관련 교과
 ### 종합설계기획(3학년 2학기, 1학점), 종합설계1(4학년 1학기, 3학점), 종합설계2(4학년 2학기, 2학점)
 
-## Capstone Design 수행을 위한 Github Repositories
-### https://github.com/tukcomCD2024)
+## Github Organization 소개
+   * 각 Organization에 Capstone Design을 수행하는 Repository들을 참고할 수 있음
+### https://github.com/2025TUKCOMCD
+### https://github.com/tukcomCD2024
+### https://github.com/tukcom2023CD
 
 ## Capstone Design 수행 일정
 
