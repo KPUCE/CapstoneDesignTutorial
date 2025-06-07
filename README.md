@@ -37,7 +37,7 @@
    * 종합설계 1학기 최종 데모 수행(발표자료 없이 데모만 수행)
 
 ### 5. 종합설계 작품설명서 제출(4학년 여름방학, 7월 말)
-   * 작품설명서 서식:
+   * 작품설명서 서식: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/2_%EC%9E%91%ED%92%88%EC%84%A4%EB%AA%85%EC%84%9C%20%EC%84%9C%EC%8B%9D.ppt
    * 작품설명서 예제1:
    * 작품설명서 예제2: 
      
