@@ -24,6 +24,8 @@
    * (1차) 종합설계 제안서 예제2: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A0%90%EC%9E%90%EC%B6%9C%EB%A0%A5%EA%B8%B0%EC%A0%9C%EC%95%88%EC%84%9C.pptx
    * (1차) 종합설계요약계획서 예제: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/S3-7%20%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%20%EC%9A%94%EC%95%BD%20%EA%B3%84%ED%9A%8D%EC%84%9C.hwp
 
+### 2. 종합설계 2차 발표(4학년 1학기, 3월 초)
+   * (2차)종합설계 2차 발표양식: 
 
 ## 오픈 캡스톤디자인 주제
 
