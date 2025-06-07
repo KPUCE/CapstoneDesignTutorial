@@ -39,7 +39,7 @@
 ### 5. 종합설계 작품설명서 제출(4학년 여름방학, 7월 말)
    * 작품설명서 서식: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/2_%EC%9E%91%ED%92%88%EC%84%A4%EB%AA%85%EC%84%9C%20%EC%84%9C%EC%8B%9D.ppt
    * 작품설명서 예제1: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/S3-7%20%ED%8C%80%EC%9E%A5%20%EA%B6%8C%ED%95%9C%EA%B8%B8%20%ED%8C%80%EC%9B%90%20%EC%9D%B4%EA%B8%B8%ED%98%95%20%EC%A0%95%EC%88%98%EA%B2%BD%20%EC%A0%95%ED%95%98%EB%A6%BC_%EC%A0%9C%ED%92%88%EC%84%A4%EB%AA%85%EC%84%9C.ppt
-   * 작품설명서 예제2: 
+   * 작품설명서 예제2: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A0%90%EC%9E%90%EC%A0%84%EC%9E%90%EC%B1%85%EC%9E%91%ED%92%88%EC%84%A4%EB%AA%85%EC%84%9C.pptx
      
 ### 6. 종합설계 5차발표(4학년 2학기, 9월 초)
    * 종합설계 최종 데모 수행(발표자료 없이 최종 데모 수행)
