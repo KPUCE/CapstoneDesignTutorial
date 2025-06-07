@@ -37,7 +37,7 @@
    * 종합설계 1학기 최종 데모 수행(발표자료 없이 데모만 수행)
 
 ### 5. 종합설계 데모동영상 제출(4학년 여름방학, 7월 말)
-   * Youtube 채멀(KPUCOM): https://www.youtube.com/@kpucom7501
+   * Youtube 채널(KPUCOM): https://www.youtube.com/@kpucom7501
    * 데모동영상 예제1: https://www.youtube.com/watch?v=QcChKsbMQIc
      
 ### 6. 종합설계 작품설명서 제출(4학년 여름방학, 7월 말)
