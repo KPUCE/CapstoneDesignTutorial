@@ -20,6 +20,8 @@
    * (1차)종합설계요약계획서 서식: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/(1%EC%B0%A8)%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84_%EC%9A%94%EC%95%BD%20%EA%B3%84%ED%9A%8D%EC%84%9C_2024.hwp
    * 개인정보 및 저작물 이용동의서: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EB%B0%8F%20%EC%A0%80%EC%9E%91%EB%AC%BC%20%EC%9D%B4%EC%9A%A9%20%EB%8F%99%EC%9D%98%EC%84%9C_2024.hwp
 
+   * (1차) 종합설계 제안서 예제:
+      - 
    * (1차) 종합설계요약계획서 예제: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/S3-7%20%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%20%EC%9A%94%EC%95%BD%20%EA%B3%84%ED%9A%8D%EC%84%9C.hwp
 
 
