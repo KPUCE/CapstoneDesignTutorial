@@ -27,7 +27,7 @@
 ### 2. 종합설계 2차 발표(4학년 1학기, 3월 초)
    * (2차) 종합설계 2차 발표양식: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84_2%EC%B0%A8%2B%EC%84%A4%EA%B3%84%EC%84%9C%2B%EB%B0%9C%ED%91%9C%EC%96%91%EC%8B%9D%20-%20v02.ppt
    * (2차) 종합설계 2차 발표 예제1: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/S3-9%20%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88%202%EC%B0%A8%EC%84%A4%EA%B3%84(%ED%8C%80%EC%9E%A5%20%EC%8B%AC%EC%98%81%EB%AF%BC%20%ED%8C%80%EC%9B%90%20%EB%B0%95%EC%A7%84%EC%84%9C%20%EC%9E%84%EC%9D%98%EC%A3%BC%20%EC%8B%A0%EC%98%81%EB%AA%85).pptx
-   * (2차) 종합설계 2차 발표 예제2: 
+   * (2차) 종합설계 2차 발표 예제2: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A0%90%EC%9E%90%EC%A0%84%EC%9E%90%EC%B1%85%EC%84%B8%EB%B6%80%EC%84%A4%EA%B3%84%EC%84%9C%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx
 
 ## 오픈 캡스톤디자인 주제
 
