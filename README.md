@@ -52,7 +52,7 @@
    * 졸업논문 서식: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%20%EB%85%BC%EB%AC%B8%EC%96%91%EC%8B%9D.hwp
    * 졸업논문 작성법: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%9E%91%EC%84%B1%20-%20%EC%A1%B8%EC%9E%912%20%EB%85%BC%EB%AC%B8%20%EC%9E%91%EC%84%B1%EB%B2%95%20-%20v01.pdf
    * 졸업논문 예제1: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%20sample1%20-%20%EC%88%98%EC%A0%95.hwp
-   * 졸업논문 예제2:
+   * 졸업논문 예제2: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%20sample2%20-%20%EC%88%98%EC%A0%95.hwp
      
 ## 캡스톤디자인을 수행하기 위한 필독서
 
