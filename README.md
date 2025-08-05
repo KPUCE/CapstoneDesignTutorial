@@ -11,6 +11,11 @@
    * https://github.com/tukcomCD2024
    * https://github.com/tukcom2023CD
 
+## 캡스톤디자인을 수행하기 위한 필독서
+  * 알렉스 쉬, 산람 저, 이병준 역, 가상 면접 사례로 배우는 대규모 시스템 설계 기초 1,2, 인사이트, 2021, 2024.
+  * 마이클 카우프만 저, 최재웅 외 역, 깃허브로 완성하는 데브옵스 가속화, 에이콘출판사, 2024.
+  * 최범근 저, 주니어 백엔드 개발자가 반드시 알아야하는 실무지식, 한빛미디어, 2025
+    
 ## Capstone Design 수행 일정
 
 ### 종합설계 설명회 자료
@@ -61,8 +66,4 @@
    * 학술지 논문 예제2: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%ED%92%8B%EC%82%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%9D%84%EC%9C%84%ED%95%9C%EA%B3%B5%EC%B6%94%EC%A0%81%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%B0%EA%B5%AC(%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C).pdf
    * 학술대회 논문 예제1: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%84%EC%9D%B4%EC%9A%A9%ED%95%9C%EC%96%B8%EC%96%B4%EC%9E%A5%EC%95%A0%EC%9D%B8%EB%AC%B8%EC%9E%A5%EC%9D%B8%EC%8B%9D(201912).pdf
      
-## 캡스톤디자인을 수행하기 위한 필독서
 
-  * 알렉스 쉬, 산람 저, 이병준 역, 가상 면접 사례로 배우는 대규모 시스템 설계 기초 1,2, 인사이트, 2021, 2024.
-  * 마이클 카우프만 저, 최재웅 외 역, 깃허브로 완성하는 데브옵스 가속화, 에이콘출판사, 2024.
-  * [브렌트 래스터 저, 정의형, 정한결 역, 러닝 깃허브 액션, 한빛미디어, 2024] [https://github.com/HangryDev/learning-github-actions]
