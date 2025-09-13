@@ -59,7 +59,8 @@
    * 졸업논문 예제2: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%20sample2%20-%20%EC%88%98%EC%A0%95.hwp
 
 ### 8. 한국공학대전(TU-EXPO) 전시(4학년 2학기, 9월말)
-   * 우수 작품 전시회(체육관), 온라인 전시
+   * 우수 작품 전시회(체육관)
+   * 디지털전시관(https://expo.tukorea.ac.kr/award): 온라인 전시
    * 학과 전시(실습실)
      
 ### 9. 교외 학회 논문, 특허 제출 및 공모전 출품(4학년 2학기)
