@@ -15,11 +15,12 @@
   * 알렉스 쉬, 산람 저, 이병준 역, 가상 면접 사례로 배우는 대규모 시스템 설계 기초 1,2, 인사이트, 2021, 2024.
   * 마이클 카우프만 저, 최재웅 외 역, 깃허브로 완성하는 데브옵스 가속화, 에이콘출판사, 2024.
   * 최범근 저, 주니어 백엔드 개발자가 반드시 알아야하는 실무지식, 한빛미디어, 2025
+  * 컴퓨터공학부 선배가 작성한 종합설계가이드북: [https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/2010_%EC%A1%B8%EC%97%85%EC%97%B0%EA%B5%AC_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81.pdf
     
 ## Capstone Design 수행 일정
 
 ### 종합설계 설명회 자료(3학년 2학기, 9월 말) (2025년도 9월 22일 예정)
-   * 2026년 종합설계 설명회 자료: (https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/2026%ED%95%99%EB%85%84%EB%8F%84%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%EC%84%A4%EB%AA%85%ED%9A%8C%EC%9E%90%EB%A3%8C(%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%8020250916).pdf)
+   * 2026년 종합설계 설명회 자료: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/2026%ED%95%99%EB%85%84%EB%8F%84%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%EC%84%A4%EB%AA%85%ED%9A%8C%EC%9E%90%EB%A3%8C(%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%8020250916).pdf)
 
 ### 1. 종합설계 제안서 발표(3학년 2학기, 11월 말) (2025년 11월 24일 예정)
    * (1차)종합설계제안서발표양식: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/(1%EC%B0%A8)%EC%A0%9C%EC%95%88%EC%84%9C%20%EB%B0%9C%ED%91%9C%EC%96%91%EC%8B%9D_2024.pptx
