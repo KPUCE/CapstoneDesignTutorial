@@ -24,8 +24,7 @@
 ### 종합설계 설명회 자료(3학년 2학기, 9월 말) 
    * 2027년 종합설계 설명회 자료
 https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/2027%ED%95%99%EB%85%84%EB%8F%84%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%EC%84%A4%EB%AA%85%ED%9A%8C%EC%9E%90%EB%A3%8Cv-260511-v2.pdf
-   * 2026년 종합설계 설명회 자료: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/2026%ED%95%99%EB%85%84%EB%8F%84%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%EC%84%A4%EB%AA%85%ED%9A%8C%EC%9E%90%EB%A3%8C(%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%8020250916).pdf)
-
+  
 ### 1. 종합설계 제안서 발표(3학년 2학기, 11월 말) 지도교수 평가
    * (1차)종합설계제안서발표양식(2026년 서식): (https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A2%85%EC%84%A41%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%96%91%EC%8B%9D_2026_v1.0.pptx)
    * (1차)종합설계요약계획서 서식: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/(1%EC%B0%A8)%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84_%EC%9A%94%EC%95%BD%20%EA%B3%84%ED%9A%8D%EC%84%9C_2024.hwp
