@@ -62,7 +62,7 @@ https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/2027%ED%95%99%EB%85%84
 ### 8. 한국공학대전(TU-EXPO) 전시(4학년 2학기, 9월중)
    * 우수 작품 전시회(체육관)
    * 컴퓨터공학부 작품 전시(실습실)
-   * 2024년 디지털전시관(https://expo.tukorea.ac.kr/award): 온라인 전시
+   * 2025년 디지털전시관(https://expo.tukorea.ac.kr/award): 온라인 전시
 
 ### 9. 교외 학회 논문, 특허 제출 및 공모전 출품(4학년 2학기)
    * 학술지논문 예제1: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A0%95%EB%B3%B4%EA%B3%BC%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%EC%A7%80%20%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%98%20%EC%8B%A4%EC%A0%9C%20%EB%B0%8F%20%EB%A0%88%ED%84%B0%20%EC%A0%9C17%EA%B6%8C%20%EC%A0%9C6%ED%98%B8_%EC%A0%84%EC%9E%90%EC%B1%85_%ED%91%9C%EC%A4%80%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9A%A9_%EC%A0%90%EC%9E%90%EC%A0%84%EC%9E%90%EC%B1%85_%EA%B0%9C%EB%B0%9C.pdf
