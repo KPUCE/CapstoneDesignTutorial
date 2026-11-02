@@ -41,11 +41,12 @@ https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/2027%ED%95%99%EB%85%84
    * (2차) 종합설계 2차 발표 예제2: https://github.com/KPUCE/CapstoneDesignTutorial/blob/main/%EC%A0%90%EC%9E%90%EC%A0%84%EC%9E%90%EC%B1%85%EC%84%B8%EB%B6%80%EC%84%A4%EA%B3%84%EC%84%9C%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx
 
 ### 3. 종합설계 3차 발표(4학년 1학기, 4월 중) 세션평가 
-   * 종합설계 1학기 최종 데모 수행(발표자료 없이 데모만 수행)
-   * 안되는 부분에 대해서 간단하게 설명하고 바로 데모 진행함
+   * 데모 발표 심사(공학대전 후보작 가선정)
+   * 종합설계에 대해서 간단하게 설명하고 바로 데모 진행함
 
-### 5. 종합설계 데모동영상 제출(4학년 여름방학, 6월 초) 세션평가
+### 5. 종합설계 최종 데모 발표심사(4학년 1학기, 6월 초) 세션평가(종합설계2에 성적 반영)
    * 종합설계 후보작 선정
+   * 데모 동영상 제출
    * Youtube 채널(KPUCOM): https://www.youtube.com/@kpucom7501
    * 데모동영상 예제1: https://www.youtube.com/watch?v=QcChKsbMQIc
      
